@@ -1,0 +1,15 @@
+One of the most obvious functions of an operating system is to create shortcuts to pieces of software.
+This takes the form of an icon that once clicked, sends you to predesignated software.
+A copy of this link icon can be formed by right clicking the icon and selecting create shortcut.
+
+Another function of an operating system is to store files in an orderly fashion.
+It does this by creating folders that can have additional subfolders to store different types of information.
+An example of this is a folder called week 5 having 2 folders called assignment 1 and assignment 2. 
+Creating 2 assignment folders serves to lessen the confusion as to what work goes to which assignment.
+Note(Try to label every file, if you don't things will be confusing because every file will be named the same thing).
+
+The final function of an OS that I'm going to talk about is taking screenshots.
+To take a screenshot with windows 10, hold down the window button + the printscreen button.
+To snip a small part of the screen, hold down the windows button + shift + s.
+From there you can click on the screen snip button and drag the box over where you want the screenshot to be taken.
+Note(screenshots taken with the first way are saved to the screenshot folder, screenshots with the second way are saved to the pictures section on the file explorer).
